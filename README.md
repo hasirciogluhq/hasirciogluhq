@@ -22,7 +22,7 @@
 <a href="https://fb.com/hasirciogli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasirciogli" height="30" width="40" /></a>
 <a href="https://instagram.com/m.hasirciogli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hasirciogli" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mustafa hasırcıoğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mustafa hasırcıoğlu" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.hsrcpay.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.hsrcpay.com/" height="30" width="40" /></a>
+<a href="https://discord.hsrcpay.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.hsrcpay.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
