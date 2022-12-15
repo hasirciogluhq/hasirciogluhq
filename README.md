@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate full stack developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasirciogli&label=Total%20Profile%20View's&color=36a7ec&style=plastic" alt="hasirciogli" /> </p>
 
