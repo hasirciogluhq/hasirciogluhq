@@ -45,12 +45,4 @@
 ###
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hasirciogli/hasirciogli/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xeaar9yi911kr7mmk7k3j0oz2)
