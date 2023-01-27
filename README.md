@@ -49,4 +49,6 @@
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xeaar9yi911kr7mmk7k3j0oz2)
+<center>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xeaar9yi911kr7mmk7k3j0oz2)
+  <center>
