@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mustafa<br>and I'm a software developer, from turkey :)</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -41,12 +41,6 @@
 <img src="https://raw.githubusercontent.com/hasirciogli/hasirciogli/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/xeaar9yi911kr7mmk7k3j0oz2">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xeaar9yi911kr7mmk7k3j0oz2)
