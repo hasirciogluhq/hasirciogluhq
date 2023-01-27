@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mustafa and I'm a Software Developer, from Turkeey ♥</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -28,21 +28,28 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://twitter.com/hasirciogli" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="120" height="60" alt="twitter logo"  />
+  <a href="Mustafa Hasırcıoğlu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="96" height="35" alt="youtube logo"  />
+  </a>
+  <a href="hasirciogli" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="96" height="35" alt="instagram logo"  />
+  </a>
+  <a href="hasirciogli" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="96" height="35" alt="twitch logo"  />
   </a>
   <a href="! Noxy#1881" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="120" height="60" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="96" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCjY-4ylrJ6dhWA8bH9TkyZg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="120" height="60" alt="youtube logo"  />
-  </a>
-  <a href="https://www.facebook.com/hasirciogli" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="120" height="60" alt="facebook logo"  />
+  <a href="mhasirciogli@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="96" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/hasirciogli/hasirciogli/blob/output/snake.svg" alt="Snake animation" />
+
 ###
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xeaar9yi911kr7mmk7k3j0oz2)
+Profile Readme Generator
