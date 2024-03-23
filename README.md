@@ -44,4 +44,5 @@
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xeaar9yi911kr7mmk7k3j0oz2)
+70+ Repo ! (I'll share everything in future)
+![image](https://github.com/hasirciogli/hasirciogli/assets/86384408/c7b2c545-efe8-4ae0-9367-45e43fac2075)
