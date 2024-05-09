@@ -1,3 +1,6 @@
+### I can write a library if i need. I never use 3'rd party libraries
+
+
 <h2 align="left">Hi 👋! My name is Mustafa<br>I'm a Software Developer, from Turkey</h2>
 
 ###
@@ -42,7 +45,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="121" height="60" alt="gmail logo"  />
   </a>
 </div>
-
-###
-70+ Repo ! (I'll share everything in future)
-![image](https://github.com/hasirciogli/hasirciogli/assets/86384408/c7b2c545-efe8-4ae0-9367-45e43fac2075)
