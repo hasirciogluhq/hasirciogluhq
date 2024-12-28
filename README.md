@@ -1,47 +1,45 @@
-### I can write a library if i need. I never use 3'rd party libraries
+# 👨‍💻 Mustafa Hasırcıoğlu | Software Developer & Designer
 
+Welcome to my GitHub! I'm Mustafa, a software developer and designer focused on building innovative and scalable projects. I aim to apply my skills to create impactful solutions and grow as a professional. Feel free to explore my work on GitHub and visit my portfolio at [hasirciogli.com](https://hasirciogli.com).
 
-<h2 align="left">Hi 👋! My name is Mustafa<br>I'm a Software Developer, from Turkey</h2>
+---
 
-###
+### 🚀 Technologies & Skills
+- **Frontend Development**: React, Next.js, TypeScript, PHP, Laravel
+- **Backend Development**: Node.js, C++, C#, Go
+- **DevOps & Containerization**: Docker, Kubernetes, CI/CD, Terraform
+- **Databases**: MySQL, MongoDB, PostgreSQL, Redis
+- **Cloud Services**: AWS, Google Cloud
+- **Tools**: Git, Docker Compose, Jenkins, Redux
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=hasirciogli" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=hasirciogli" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🌟 Featured Projects
+1. **[Deweloper.cloud](https://deweloper.cloud)** - A cloud development platform to build and deploy apps efficiently.
+2. **[HsrcPay](https://hsrcpay.com)** - A payment processing solution designed for seamless transactions.
+3. **[AnonimSor](https://anonimsor.com)** - An anonymous Q&A platform for open discussions.
+4. **[Fightland](https://fightland.vercel.app)** - A gaming platform that connects players worldwide.
+5. **[Ficksa](https://ficksa.com)** - An e-commerce solution with advanced features for online stores.
+6. **[TrinkMoney](https://trinkmoney.com)** - A financial services platform providing easy access to financial tools.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-</div>
+### 📈 GitHub Stats
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasirciogli&show_icons=true&theme=dark)
 
-###
+---
 
-<br clear="both">
+### 📬 Connect with Me
+- [Email](mailto:mhasirciogli@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/hasirciogli)
+- [Instagram](https://www.instagram.com/hasirciogli)
+- [Buy Me a Coffee](https://buymeacoffee.com/hasirciogli)
 
-<div align="center">
-  <a href="Mustafa Hasırcıoğlu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="121" height="60" alt="youtube logo"  />
-  </a>
-  <a href="hasirciogli" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="121" height="60" alt="instagram logo"  />
-  </a>
-  <a href="hasirciogli" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="121" height="60" alt="twitch logo"  />
-  </a>
-  <a href="! Noxy#1881" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="121" height="60" alt="discord logo"  />
-  </a>
-  <a href="mhasirciogli@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="121" height="60" alt="gmail logo"  />
-  </a>
-</div>
+---
+
+### 💬 Support Me
+If you enjoy my work, consider supporting me through a donation. Your support helps me continue creating new projects and improving my skills.
+
+---
+
+© 2024 Mustafa Hasırcıoğlu. All rights reserved.
