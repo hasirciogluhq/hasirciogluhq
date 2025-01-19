@@ -36,6 +36,11 @@ Welcome to my GitHub! I'm Mustafa, a software developer and designer focused on 
 - [Buy Me a Coffee](https://buymeacoffee.com/hasirciogli)
 
 ---
+### BTW im working on private projects then you cant see :(
+![Screenshot 2025-01-20 at 2 35 48 AM](https://github.com/user-attachments/assets/1ab568f9-371d-4c70-9863-726a28f16b4a)
+![Screenshot 2025-01-20 at 2 37 06 AM](https://github.com/user-attachments/assets/7c76a4f4-724a-488e-9b98-8ccde64a3245)
+
+
 
 ### 💬 Support Me
 If you enjoy my work, consider supporting me through a donation. Your support helps me continue creating new projects and improving my skills.
