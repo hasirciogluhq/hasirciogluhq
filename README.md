@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm Mustafa, a software developer and designer focused on 
 ### 📬 Connect with Me
 - [Email](mailto:mhasirciogli@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/hasirciogli)
-- [Instagram](https://www.instagram.com/hasirciogli)
+- [Instagram](https://www.instagram.com/mr.hasircioglu)
 - [Buy Me a Coffee](https://buymeacoffee.com/hasirciogli)
 
 ---
