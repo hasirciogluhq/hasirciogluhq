@@ -2,10 +2,10 @@
 
 I’m a software engineer who builds systems that last.
 I care about performance, structure, and writing code that earns its place.
-No buzzwords — just solid engineering and design that works in the real world.
+No buzzwords, just solid engineering and design that works in the real world.
 
 I spend most of my time designing infrastructure, backend systems, and developer tools.
-Sometimes I build products from scratch — sometimes I break and rebuild them better.
+Sometimes I build products from scratch, sometimes I break and rebuild them better.
 
 More about me at [hasirciogli.com](https://hasirciogli.com).
 
