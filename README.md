@@ -7,7 +7,7 @@ No buzzwords, just solid engineering and design that works in the real world.
 I spend most of my time designing infrastructure, backend systems, and developer tools.
 Sometimes I build products from scratch, sometimes I break and rebuild them better.
 
-More about me at [hasirciogli.com](https://hasirciogli.com).
+More about me at [hasirciogluhq.com](https://hasirciogluhq.com).
 
 ---
 
@@ -29,9 +29,9 @@ I like solving complex problems quietly and shipping clean results.
 
 ### 📫 Contact
 
-* [Email](mailto:mhasirciogli@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/hasirciogli)
-* [hasirciogli.com](https://hasirciogli.com)
+* [Email](mailto:hello@hasirciogluhq.com)
+* [LinkedIn](https://www.linkedin.com/in/hasircioglu)
+* [hasirciogluhq.com](https://hasirciogluhq.com)
 
 ---
 
